@@ -1,0 +1,29 @@
+#footer
+{
+  background-color: black;
+  color: white;
+
+}
+
+#myHeader
+{
+    background-color: black;
+}
+
+#bolditem
+{
+    font-weight: bold;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    border: 5px solid #555;
+    border-color: aqua;
+  }
+
+#centerstage
+{
+    text-align: center;
+    background-color: antiquewhite;
+}
